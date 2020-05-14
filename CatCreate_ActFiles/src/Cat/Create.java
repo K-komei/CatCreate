@@ -1,8 +1,10 @@
+
+
 import java.io.*;
 import javax.swing.*;
 
 
-public class CatCreate{
+public class Create{
     
     //PopupMesseageCreate
 
